@@ -1,0 +1,27 @@
+
+
+.nav {
+  grid-area: n;
+  background-color: rgb(211, 96, 96);
+  padding: 20px;
+}
+
+.item a{
+  color: white;
+  text-decoration: none;
+}
+
+.item a.activeLink {
+  color: gold;
+}
+
+.friendsList {
+  display: flex;
+  flex-wrap: wrap;
+  width: 200px;
+
+}
+
+.friends_wrapper h3{
+margin: 100px 0 20px;
+}
