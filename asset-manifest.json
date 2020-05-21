@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/social-network-project/static/css/main.0f8789cb.chunk.css",
+    "main.js": "/social-network-project/static/js/main.f9d88b16.chunk.js",
+    "main.js.map": "/social-network-project/static/js/main.f9d88b16.chunk.js.map",
+    "runtime-main.js": "/social-network-project/static/js/runtime-main.80abb6bd.js",
+    "runtime-main.js.map": "/social-network-project/static/js/runtime-main.80abb6bd.js.map",
+    "static/js/2.bb25d8ad.chunk.js": "/social-network-project/static/js/2.bb25d8ad.chunk.js",
+    "static/js/2.bb25d8ad.chunk.js.map": "/social-network-project/static/js/2.bb25d8ad.chunk.js.map",
+    "static/css/3.66704da9.chunk.css": "/social-network-project/static/css/3.66704da9.chunk.css",
+    "static/js/3.02f8eb59.chunk.js": "/social-network-project/static/js/3.02f8eb59.chunk.js",
+    "static/js/3.02f8eb59.chunk.js.map": "/social-network-project/static/js/3.02f8eb59.chunk.js.map",
+    "static/css/4.92c699fd.chunk.css": "/social-network-project/static/css/4.92c699fd.chunk.css",
+    "static/js/4.d790b76a.chunk.js": "/social-network-project/static/js/4.d790b76a.chunk.js",
+    "static/js/4.d790b76a.chunk.js.map": "/social-network-project/static/js/4.d790b76a.chunk.js.map",
+    "index.html": "/social-network-project/index.html",
+    "precache-manifest.b2f749de0d60f8e5667dd99e3b0624f2.js": "/social-network-project/precache-manifest.b2f749de0d60f8e5667dd99e3b0624f2.js",
+    "service-worker.js": "/social-network-project/service-worker.js",
+    "static/css/3.66704da9.chunk.css.map": "/social-network-project/static/css/3.66704da9.chunk.css.map",
+    "static/css/4.92c699fd.chunk.css.map": "/social-network-project/static/css/4.92c699fd.chunk.css.map",
+    "static/css/main.0f8789cb.chunk.css.map": "/social-network-project/static/css/main.0f8789cb.chunk.css.map",
+    "static/js/2.bb25d8ad.chunk.js.LICENSE.txt": "/social-network-project/static/js/2.bb25d8ad.chunk.js.LICENSE.txt",
+    "static/media/icons-user.png": "/social-network-project/static/media/icons-user.888fa4eb.png",
+    "static/media/preloader.gif": "/social-network-project/static/media/preloader.3d1b739f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80abb6bd.js",
+    "static/js/2.bb25d8ad.chunk.js",
+    "static/css/main.0f8789cb.chunk.css",
+    "static/js/main.f9d88b16.chunk.js"
+  ]
+}
