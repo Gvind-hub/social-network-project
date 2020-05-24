@@ -25,7 +25,6 @@ const ProfileInfo = ({profile, status, updateStatus, isOwner, savePhoto, savePro
                 setEditMode(false);
             }
         );
-
     };
 
     return (
